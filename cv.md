@@ -1,12 +1,12 @@
-## Yelizaveta Petrenko
+# Yelizaveta Petrenko
 
 *****
 ### My contacts:
 
-**Location**: Krakow, Poland
-**Phone**: +48 451-131-346
-**E-mail**: p.yelizaveta.98@gmail.com
-**Telegram**: @hBXFHB
+**Location**: Krakow, Poland  
+**Phone**: +48 451-131-346  
+**E-mail**: p.yelizaveta.98@gmail.com  
+**Telegram**: @hBXFHB  
 
 *****
 ### About me:
@@ -16,7 +16,7 @@ I am 24 years old, I have started my self-education at the end of 2021 and was v
 *****
 ### Skills:
 
-- HTML(BEM methodology)
+- HTML (BEM methodology)
 - CSS (SASS/SCSS)
 - JavaScript (basics)
 - Git/GitHub
@@ -45,7 +45,7 @@ function isDivideBy(number, a, b) {
 
 *****
 ### Languages:
-English - B1 Preliminary (accodring to the online test at [cambridgeenglish.org](https://www.cambridgeenglish.org)
-![](https://drive.google.com/file/d/1tA11CBl2AMMP1nZJi-bn308Nvktmtfn0/view?usp=sharing)
-Russian - native speaker
-Polish - basic
+English - B1 Preliminary (accodring to the online test at [cambridgeenglish.org](https://www.cambridgeenglish.org))  
+![](https://drive.google.com/file/d/1tA11CBl2AMMP1nZJi-bn308Nvktmtfn0/view?usp=sharing)  
+Russian - native speaker  
+Polish - basic  
