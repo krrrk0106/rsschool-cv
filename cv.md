@@ -6,6 +6,7 @@
 **Location**: Krakow, Poland
 **Phone**: +48 451-131-346
 **E-mail**: p.yelizaveta.98@gmail.com
+**Telegram**: @hBXFHB
 
 *****
 ### About me:
@@ -37,6 +38,8 @@ function isDivideBy(number, a, b) {
 }
 ```
 *****
+### Courses:
+
 - HTML, CSS and JavaScript courses on [ru.code-basics.com](https://ru.code-basics.com/)
 - JavaSript manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 
