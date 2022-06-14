@@ -81,19 +81,19 @@ h1 > span{
 }
 
 .mail {
-    background: url(../assets/png/mail.png)#6d92b7 no-repeat center;
+    background: url(./assets/png/mail.png)#6d92b7 no-repeat center;
 }
 
 .phone {
-    background: url(../assets/png/phone.png)#6d92b7 no-repeat center;
+    background: url(./assets/png/phone.png)#6d92b7 no-repeat center;
 }
 
 .discord {
-    background: url(../assets/png/discord.png)#6d92b7 no-repeat center;
+    background: url(./assets/png/discord.png)#6d92b7 no-repeat center;
 }
 
 .location {
-    background: url(../assets/png/location.png)#6d92b7 no-repeat center;
+    background: url(./assets/png/location.png)#6d92b7 no-repeat center;
 }
 
 .blue {
@@ -149,7 +149,7 @@ pre {
     width: 32px;
     height: 32px;
     margin: 0 10px 0 20px;
-    background: url(../assets/png/github.png)#404040 no-repeat center;
+    background: url(./assets/png/github.png)#404040 no-repeat center;
 }
 
 .cv-footer-github__link {
@@ -167,5 +167,5 @@ pre {
     width: 80px;
     height: 50px;
     margin-right: 40px;
-    background: url(../assets/svg/rsschool.svg) no-repeat center;
+    background: url(./assets/svg/rsschool.svg) no-repeat center;
 }
